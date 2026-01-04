@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		265,
+		100
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "BEEPBOOPS",
+		"dad": "INVI",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		406,
+		116
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"x": 25,
+			"y": 69,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Fondo",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"type": "dad"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		320,
+		350
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		-300,
+		50
+	]
+}
