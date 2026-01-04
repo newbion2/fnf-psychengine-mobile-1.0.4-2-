@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [3, 99],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ABAJO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [11, 98],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ARRIBA",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [24, 104],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ALT"
+		},
+		{
+			"offsets": [130, 105],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UP-ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [134, 115],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "IZQUIERDA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [4, 118],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DERECHA",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/beeboops",
+	"position": [0, 0],
+	"healthicon": "BF",
+	"flip_x": true,
+	"healthbar_colors": [0, 181, 221],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
